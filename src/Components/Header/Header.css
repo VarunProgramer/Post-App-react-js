@@ -1,0 +1,25 @@
+.search-form{
+    margin-top: 10px;
+    position: relative;
+}
+.search-form input{
+    position: relative;
+    left: -45px;
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+    font-weight: bold;
+    outline: none;
+    padding: 0 10px;
+}
+.search-form label{
+    position: relative;
+    left: -99999999999999px;
+}
+a::after,
+a::before,
+a:active,
+a:hover{
+    color: #FFFF;
+    text-decoration: none;
+}

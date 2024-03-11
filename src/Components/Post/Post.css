@@ -1,0 +1,18 @@
+.post-post{
+    border: 2px solid rgba(0, 0, 0, .5);
+    margin-bottom: 20px;
+    padding: 10px;
+    min-height: 200px;
+}
+.post-post h1{
+    margin: 0;
+    margin-bottom: 10px;
+}
+.post-post .datetime{
+    opacity: .6;
+}
+.post-post hr{
+    position: relative;
+    left: -10px;
+    width: 101.8%;
+}

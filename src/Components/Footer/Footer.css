@@ -1,0 +1,28 @@
+.footer-content{
+    position: relative;
+    margin: 0;
+    left: -15px;
+}
+.footer-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+    height: 60px;
+    background-color: rgb(24, 24, 24);
+}
+.footer-icons a{
+    margin-left: 20px;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    color: #FFF;
+    text-decoration: none;
+}
+a:hover{
+    color: #62c1f9;
+}

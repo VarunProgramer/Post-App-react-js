@@ -1,0 +1,18 @@
+.post_link li{
+    
+    list-style: none;
+}
+.post_link a{
+    color: black;
+}
+.title-delete{
+    position: relative;
+}
+.title-delete .group{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.group button{
+    margin-left: 20px;
+}

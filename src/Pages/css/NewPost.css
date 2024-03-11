@@ -1,0 +1,33 @@
+.post-form{
+    margin: 85px 0;
+}
+.post-form label{
+    width: 100%;
+}
+.post-form input{
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    outline: none;
+    border: 2px solid rgba(60, 60, 60, .8);
+    height:  40px;
+    font-size: 17px;
+    padding: 0 10px;
+}
+.post-form textarea{
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    outline: none;
+    font-size: 17px;
+    padding: 10px 10px;
+    border: 2px solid rgba(60, 60, 60, .8);
+    height:  200px;
+}
+.post-btn{
+    position: relative;
+}
+.post-btn button{
+    position: absolute;
+    right: 0px;
+}
