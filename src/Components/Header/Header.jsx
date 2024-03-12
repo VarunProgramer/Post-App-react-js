@@ -13,8 +13,9 @@ const Header = ({ title, search, setSearch }) => {
                         <span className="icon-bar"></span>
                         <span className="icon-bar"></span>
                     </button>
-
-                    <a href="#" className="navbar-brand"><Link to='/'>{title}</Link></a>
+                    <div>
+                    <Link to='/'><p className="navbar-brand">{title}</p></Link>
+                    </div>
                 </div>
 
                 <div className="collapse navbar-collapse" id="myNavbar">
